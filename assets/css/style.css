@@ -80,7 +80,8 @@ a.scrollToTop:hover {
 
 
 body {
-  background: url(../images/background.png);
+  /* background: url(../images/background.png); */
+  background-color: #f2fbfc;
   width: 100%;
   background-size: cover;
 /*   font-family: 'Raleway', sans-serif;
